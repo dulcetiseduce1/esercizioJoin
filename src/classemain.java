@@ -13,5 +13,7 @@ public class classemain {
         esempio1.start();
         esempio1.join();
         esempio2.start();
+
+
     }
 }
